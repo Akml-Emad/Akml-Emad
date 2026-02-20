@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Akml-Emad/Akml-Emad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi I'm Akml 👋
+
+## My GitHub Stats 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akml-Emad&show_icons=true&count_private=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akml-Emad&layout=compact&count_private=true&theme=merko)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Akml-Emad&count_private=true&theme=merko)
+
