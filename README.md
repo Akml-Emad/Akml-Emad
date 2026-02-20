@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akml-Emad&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akml-Emad&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akml-Emad&layout=compact&count_private=true&theme=merko)
 
