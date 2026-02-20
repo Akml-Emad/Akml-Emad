@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akml-Emad&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akml-Emad&layout=compact&count_private=true&theme=merko)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akml-Emad&layout=compact&theme=github_dark&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akml-Emad&count_private=true&theme=merko)
 
